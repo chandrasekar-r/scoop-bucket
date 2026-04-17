@@ -1,12 +1,12 @@
 {
-    "version": "0.3.1",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/chandrasekar-r/bitbucket-cli/releases/download/v0.3.1/bb_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/chandrasekar-r/bitbucket-cli/releases/download/v0.4.0/bb_0.4.0_windows_amd64.zip",
             "bin": [
                 "bb.exe"
             ],
-            "hash": "68c58e0e4ca749fbd0dc0fcbe631ce7096c95db7791e941d746d9e7992fdbb6d"
+            "hash": "c79b58cf0facbe7d920f43d8b56319dbc027b3fa21e85d3b57868907fd55bdaf"
         }
     },
     "homepage": "https://github.com/chandrasekar-r/bitbucket-cli",
